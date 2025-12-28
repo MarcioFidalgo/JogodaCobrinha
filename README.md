@@ -1,2 +1,2 @@
 # JogodaCobrinha
-Created with CodeSandbox
+Simulador do jogo da cobrinha baseado em Javascript.
